@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d5cHFodnJoams4bThrb2E4Y25mNWIzOTR2M3Y3am1tZHdxZXV3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT4uQF7h39mlsF5czK/giphy.gif" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J0ZjF3bHRvcDdyZnN6NnkyaXhxYWk1NXV4Z2ptbWQ0dnU0aDI0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" width="90%" />
 
 </div>
 
@@ -18,7 +18,7 @@ I'm a **Software Engineer** from Bahrain who enjoys designing and building **sca
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,cs,swift,react,html,css,nodejs,git,redis,express,django,dotnet,rabbitmq,unity,vscode,npm,mongodb,postgres,prisma,kafka,java,docker,golang,vite,php,linux,firebase,mysql&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,cs,java,swift,golang,php,express,django,dotnet,nodejs,rabbitmq,kafka,react,vite,mongodb,postgres,mysql,redis,prisma,firebase,html,css,git,docker,linux,vscode,unity,npm&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -50,5 +50,13 @@ I'm a **Software Engineer** from Bahrain who enjoys designing and building **sca
 <a href="https://discord.com/users/767240815889874955" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="55" alt="Discord"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Building cool things, one commit at a time.
 
 </div>
